@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://antx.io/company/about/</loc>
+    <loc>http://localhost:1313/company/about/</loc>
   </url><url>
-    <loc>https://antx.io/company/blog/</loc>
+    <loc>http://localhost:1313/company/blog/</loc>
   </url><url>
-    <loc>https://antx.io/company/careers/</loc>
+    <loc>http://localhost:1313/company/careers/</loc>
   </url><url>
-    <loc>https://antx.io/company/guides/</loc>
+    <loc>http://localhost:1313/company/guides/</loc>
   </url><url>
-    <loc>https://antx.io/company/roadmap/</loc>
+    <loc>http://localhost:1313/company/roadmap/</loc>
   </url><url>
-    <loc>https://antx.io/customers/</loc>
+    <loc>http://localhost:1313/customers/</loc>
   </url><url>
-    <loc>https://antx.io/customers/anz/</loc>
+    <loc>http://localhost:1313/customers/anz/</loc>
   </url><url>
-    <loc>https://antx.io/services/apigateway/</loc>
+    <loc>http://localhost:1313/services/apigateway/</loc>
   </url><url>
-    <loc>https://antx.io/services/cloud/</loc>
+    <loc>http://localhost:1313/services/cloud/</loc>
   </url><url>
-    <loc>https://antx.io/services/codespace/</loc>
+    <loc>http://localhost:1313/services/codespace/</loc>
   </url><url>
-    <loc>https://antx.io/services/cost/</loc>
+    <loc>http://localhost:1313/services/cost/</loc>
   </url><url>
-    <loc>https://antx.io/services/k8s/</loc>
+    <loc>http://localhost:1313/services/k8s/</loc>
   </url><url>
-    <loc>https://antx.io/services/mesh/</loc>
+    <loc>http://localhost:1313/services/mesh/</loc>
   </url><url>
-    <loc>https://antx.io/services/observability/</loc>
+    <loc>http://localhost:1313/services/observability/</loc>
   </url><url>
-    <loc>https://antx.io/services/rpc/</loc>
+    <loc>http://localhost:1313/services/rpc/</loc>
   </url><url>
-    <loc>https://antx.io/services/security/</loc>
+    <loc>http://localhost:1313/services/security/</loc>
   </url><url>
-    <loc>https://antx.io/services/teleport/</loc>
+    <loc>http://localhost:1313/services/teleport/</loc>
   </url><url>
-    <loc>https://antx.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://antx.io/company/</loc>
+    <loc>http://localhost:1313/company/</loc>
   </url><url>
-    <loc>https://antx.io/services/</loc>
+    <loc>http://localhost:1313/services/</loc>
   </url>
 </urlset>

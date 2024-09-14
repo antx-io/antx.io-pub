@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Companies on antx.io (a problem solving lab)</title>
-    <link>https://antx.io/company/</link>
+    <link>http://localhost:1313/company/</link>
     <description>Recent content in Companies on antx.io (a problem solving lab)</description>
     <generator>Hugo</generator>
     <language>en-au</language>
-    <atom:link href="https://antx.io/company/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/company/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://antx.io/company/about/</link>
+      <link>http://localhost:1313/company/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/company/about/</guid>
+      <guid>http://localhost:1313/company/about/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/company/blog/</link>
+      <link>http://localhost:1313/company/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/company/blog/</guid>
+      <guid>http://localhost:1313/company/blog/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/company/careers/</link>
+      <link>http://localhost:1313/company/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/company/careers/</guid>
+      <guid>http://localhost:1313/company/careers/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/company/guides/</link>
+      <link>http://localhost:1313/company/guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/company/guides/</guid>
+      <guid>http://localhost:1313/company/guides/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/company/roadmap/</link>
+      <link>http://localhost:1313/company/roadmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/company/roadmap/</guid>
+      <guid>http://localhost:1313/company/roadmap/</guid>
       <description></description>
     </item>
   </channel>

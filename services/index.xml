@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on antx.io (a problem solving lab)</title>
-    <link>https://antx.io/services/</link>
+    <link>http://localhost:1313/services/</link>
     <description>Recent content in Services on antx.io (a problem solving lab)</description>
     <generator>Hugo</generator>
     <language>en-au</language>
-    <atom:link href="https://antx.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://antx.io/services/apigateway/</link>
+      <link>http://localhost:1313/services/apigateway/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/apigateway/</guid>
+      <guid>http://localhost:1313/services/apigateway/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/cloud/</link>
+      <link>http://localhost:1313/services/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/cloud/</guid>
+      <guid>http://localhost:1313/services/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/codespace/</link>
+      <link>http://localhost:1313/services/codespace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/codespace/</guid>
-      <description>CodeSpace Secure Coding Environment in the Cloud</description>
+      <guid>http://localhost:1313/services/codespace/</guid>
+      <description>&lt;h1 id=&#34;codespace&#34;&gt;CodeSpace&lt;/h1&gt;&#xA;&lt;p&gt;Secure Coding Environment in the Cloud&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/codespace-0.png&#34; alt=&#34;codespace 0&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/cost/</link>
+      <link>http://localhost:1313/services/cost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/cost/</guid>
+      <guid>http://localhost:1313/services/cost/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/k8s/</link>
+      <link>http://localhost:1313/services/k8s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/k8s/</guid>
+      <guid>http://localhost:1313/services/k8s/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/mesh/</link>
+      <link>http://localhost:1313/services/mesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/mesh/</guid>
+      <guid>http://localhost:1313/services/mesh/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/observability/</link>
+      <link>http://localhost:1313/services/observability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/observability/</guid>
+      <guid>http://localhost:1313/services/observability/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/rpc/</link>
+      <link>http://localhost:1313/services/rpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/rpc/</guid>
-      <description>Hi </description>
+      <guid>http://localhost:1313/services/rpc/</guid>
+      <description>&lt;h1 id=&#34;hi&#34;&gt;Hi&lt;/h1&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/security/</link>
+      <link>http://localhost:1313/services/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/security/</guid>
+      <guid>http://localhost:1313/services/security/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://antx.io/services/teleport/</link>
+      <link>http://localhost:1313/services/teleport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://antx.io/services/teleport/</guid>
-      <description>Teleport Secure remote access to your environments with RBAC controlled&#xA;linux servers, windows serevers kubernetes databases aws gcp az (Azure) applications </description>
+      <guid>http://localhost:1313/services/teleport/</guid>
+      <description>&lt;h1 id=&#34;teleport&#34;&gt;Teleport&lt;/h1&gt;&#xA;&lt;p&gt;Secure remote access to your environments with RBAC controlled&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;linux servers, windows serevers&lt;/li&gt;&#xA;&lt;li&gt;kubernetes&lt;/li&gt;&#xA;&lt;li&gt;databases&lt;/li&gt;&#xA;&lt;li&gt;aws&lt;/li&gt;&#xA;&lt;li&gt;gcp&lt;/li&gt;&#xA;&lt;li&gt;az (Azure)&lt;/li&gt;&#xA;&lt;li&gt;applications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/teleport-1.png&#34; alt=&#34;teleport 1&#34;&gt;&#xA;&lt;img src=&#34;images/teleport-0.png&#34; alt=&#34;teleport 0&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
